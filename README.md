@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, guides, and resources for faceless content creators on YouTube, TikTok, and other platforms.
 
-**🔗 Full directory with detailed reviews: [faceless.directory](https://faceless.directory)**
+**ð Full directory with detailed reviews: [faceless.directory](https://faceless.directory)**
 
 Faceless content is one of the fastest-growing trends in content creation. Build profitable channels without showing your face using AI-powered tools for scripting, voice generation, video creation, and automation.
 
@@ -10,21 +10,21 @@ Faceless content is one of the fastest-growing trends in content creation. Build
 
 ## Contents
 
-- [📝 Scripting & Writing](#-scripting--writing)
-- [🎙️ Voice & Text-to-Speech](#️-voice--text-to-speech)
-- [🎬 Video Generation](#-video-generation)
-- [✂️ Video Editing](#️-video-editing)
-- [🖼️ Thumbnails & Graphics](#️-thumbnails--graphics)
-- [⚡ Automation](#-automation)
-- [📊 Analytics](#-analytics)
-- [📁 Organization](#-organization)
-- [📚 Guides & Tutorials](#-guides--tutorials)
-- [🎯 Channel Ideas](#-channel-ideas)
-- [🔗 Communities](#-communities)
+- [ð Scripting & Writing](#-scripting--writing)
+- [ðï¸ Voice & Text-to-Speech](#ï¸-voice--text-to-speech)
+- [ð¬ Video Generation](#-video-generation)
+- [âï¸ Video Editing](#ï¸-video-editing)
+- [ð¼ï¸ Thumbnails & Graphics](#ï¸-thumbnails--graphics)
+- [â¡ Automation](#-automation)
+- [ð Analytics](#-analytics)
+- [ð Organization](#-organization)
+- [ð Guides & Tutorials](#-guides--tutorials)
+- [ð¯ Channel Ideas](#-channel-ideas)
+- [ð Communities](#-communities)
 
 ---
 
-## 📝 Scripting & Writing
+## ð Scripting & Writing
 
 Tools for writing video scripts, generating ideas, and creating content.
 
@@ -40,7 +40,7 @@ Tools for writing video scripts, generating ideas, and creating content.
 
 ---
 
-## 🎙️ Voice & Text-to-Speech
+## ðï¸ Voice & Text-to-Speech
 
 AI voice generators for narration and voiceovers.
 
@@ -57,7 +57,7 @@ AI voice generators for narration and voiceovers.
 
 ---
 
-## 🎬 Video Generation
+## ð¬ Video Generation
 
 AI tools for creating and generating video content.
 
@@ -77,7 +77,7 @@ AI tools for creating and generating video content.
 
 ---
 
-## ✂️ Video Editing
+## âï¸ Video Editing
 
 Free and paid tools for editing faceless content.
 
@@ -96,7 +96,7 @@ Free and paid tools for editing faceless content.
 
 ---
 
-## 🖼️ Thumbnails & Graphics
+## ð¼ï¸ Thumbnails & Graphics
 
 Create click-worthy thumbnails and visuals.
 
@@ -114,7 +114,7 @@ Create click-worthy thumbnails and visuals.
 
 ---
 
-## ⚡ Automation
+## â¡ Automation
 
 Automate your content workflow.
 
@@ -131,7 +131,7 @@ Automate your content workflow.
 
 ---
 
-## 📊 Analytics
+## ð Analytics
 
 Track and optimize your channel performance.
 
@@ -143,7 +143,7 @@ Track and optimize your channel performance.
 
 ---
 
-## 📁 Organization
+## ð Organization
 
 Keep your content pipeline organized.
 
@@ -156,7 +156,7 @@ Keep your content pipeline organized.
 
 ---
 
-## 📚 Guides & Tutorials
+## ð Guides & Tutorials
 
 Learn how to build profitable faceless channels.
 
@@ -188,7 +188,7 @@ Learn how to build profitable faceless channels.
 
 ---
 
-## 🎯 Channel Ideas
+## ð¯ Channel Ideas
 
 Popular faceless niches with high earning potential:
 
@@ -207,7 +207,7 @@ Popular faceless niches with high earning potential:
 
 ---
 
-## 🔗 Communities
+## ð Communities
 
 Connect with other faceless creators:
 
@@ -222,7 +222,7 @@ Connect with other faceless creators:
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-If you find this list useful, please ⭐ star the repo!
+If you find this list useful, please â­ star the repo!
 
 ---
 
@@ -234,4 +234,6 @@ This list is dedicated to the public domain under CC0 1.0.
 
 ---
 
-**Built and maintained by [Faceless Directory](https://faceless.directory)** — The #1 resource for faceless content creators.
+**Built and maintained by [Faceless Directory](https://faceless.directory)** â The #1 resource for faceless content creators.
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
